@@ -10,6 +10,7 @@ permissions:
 
 env:
   ANDROID_HOME: /home/runner/android-sdk
+  ANDROID_SDK_ROOT: /home/runner/android-sdk
 
 jobs:
   build:
